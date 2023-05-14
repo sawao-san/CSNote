@@ -1,0 +1,9 @@
+C:\Srcs\CSNote\CSNote\bin\Debug\CSNote.exe.config
+C:\Srcs\CSNote\CSNote\bin\Debug\CSNote.exe
+C:\Srcs\CSNote\CSNote\bin\Debug\CSNote.pdb
+C:\Srcs\CSNote\CSNote\obj\Debug\CSNote.csproj.AssemblyReference.cache
+C:\Srcs\CSNote\CSNote\obj\Debug\CSNote.Properties.Resources.resources
+C:\Srcs\CSNote\CSNote\obj\Debug\CSNote.csproj.GenerateResource.cache
+C:\Srcs\CSNote\CSNote\obj\Debug\CSNote.csproj.CoreCompileInputs.cache
+C:\Srcs\CSNote\CSNote\obj\Debug\CSNote.exe
+C:\Srcs\CSNote\CSNote\obj\Debug\CSNote.pdb
