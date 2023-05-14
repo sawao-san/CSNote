@@ -7,3 +7,4 @@ C:\Srcs\CSNote\CSNote\obj\Debug\CSNote.csproj.GenerateResource.cache
 C:\Srcs\CSNote\CSNote\obj\Debug\CSNote.csproj.CoreCompileInputs.cache
 C:\Srcs\CSNote\CSNote\obj\Debug\CSNote.exe
 C:\Srcs\CSNote\CSNote\obj\Debug\CSNote.pdb
+C:\Srcs\CSNote\CSNote\obj\Debug\CSNote.Form1.resources

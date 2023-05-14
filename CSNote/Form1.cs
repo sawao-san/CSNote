@@ -16,5 +16,17 @@ namespace CSNote
         {
             InitializeComponent();
         }
+
+        private void toolStripStatusLabel1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void openMenuItem_Click(object sender, EventArgs e)
+        {
+            OpenFileDialog dialog = new OpenFileDialog();
+            dialog.Filter = "テキストファイル(*.txt)|*.txt";
+            
+        }
     }
 }
